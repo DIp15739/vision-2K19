@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container11 {
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    font-style: bold;
+}
+
+li {
+    display: inline-block;
+    font-size: 17px;
+    list-style-type: none;
+    padding: 6px;
+    text-transform: uppercase;
+}
+
+li span {
+    display: block;
+    font-size: 30px;
+}
